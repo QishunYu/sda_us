@@ -1,0 +1,29 @@
+{
+    "Seed": "6a ea 99 ff 20",
+
+    "Left Bosch Radar": [
+        {
+            "Radar Position X" : -1200,
+            "Radar Position Y" : 1320,
+            "Radar Position Z" : 1070,
+            "Mounting Angle Azimuth" : 80,
+            "Mounting Angle Elevation" : 0,
+            "Radar Flipped" : 1,
+            "DID" : "0x2001",
+            "HEX Header" : "2E 20 01"
+        }
+    ],
+
+    "Right Bosch Radar": [
+        {
+            "Radar Position X" : -1200,
+            "Radar Position Y" : -1320,
+            "Radar Position Z" : 960,
+            "Mounting Angle Azimuth" : -80,
+            "Mounting Angle Elevation" : 0,
+            "Radar Flipped" : 1,
+            "DID" : "0x2000",
+            "HEX Header" : "2E 20 00"
+        }
+    ]
+}
